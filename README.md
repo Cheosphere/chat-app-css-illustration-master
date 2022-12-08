@@ -6,6 +6,8 @@ El desafío es desarrollar esta aplicación y lograr que se parezca lo más posi
 - CSS
 - JS Vanilla (with animejs library)
 
+![desktop-design](https://user-images.githubusercontent.com/112582420/206519619-f92cadb7-0e2b-4ea6-a21f-6d0eb9a3c9a3.jpg)
+
 # Guía de Estilo
 
 ## Diseño
